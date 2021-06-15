@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>my first example of css</title>
+<style type=text/css">
+p{
+text-align: center;
+color:rgb(10, 100, 200);
+font-weight: 700;
+font-size:xx-small;
+font-size:xx-large;
+text-transform: uppercase;
+}
+#pp{
+color:red;
+</style>
+
+</head>
+<body>
+<p id='p1,> this is the first example of using css with html </p>
+<p> there are some block if cods</p>
+<h1>kjdshfds dsfhu dfsiu dfh </h1>
+<h2> skydfds ds dsfius dyfuis </h2>
+</body>
